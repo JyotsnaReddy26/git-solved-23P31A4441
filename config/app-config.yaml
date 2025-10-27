@@ -1,4 +1,3 @@
-
 application:
   name: DevOpsSimulator
   version: 1.0.0
@@ -13,10 +12,9 @@ logging:
   level: INFO
   format: json
   
-  
 development:
   enabled: false
   port: 3000
   hot_reload: false
   debug_mode: false
-  mock_apis: false 
+  mock_apis: false
