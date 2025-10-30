@@ -1,11 +1,11 @@
 # My Git Mastery Challenge Journey
 
 ## Student Information
-- Name: [YOUR NAME]
-- Student ID: [YOUR ID]
-- Repository: [YOUR REPO URL]
-- Date Started: [DATE]
-- Date Completed: [DATE]
+- Name: Jyotsna Sai Surekha
+- Student ID: 23P31A4441
+- Repository: https://github.com/JyotsnaReddy26/git-solved-23P31A4441
+- Date Started: 27/10/2025
+- Date Completed: 27/10/2025
 
 ## Task Summary
 Cloned instructor's repository with pre-built conflicts and resolved all 
